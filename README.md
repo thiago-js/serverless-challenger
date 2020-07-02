@@ -9,7 +9,7 @@ serverLess
 
 ## The project
 
-Simple implementation to docker http hello full cycle with golang
+Simple sum with golang and serverless lambda function
 
 
 ## Author
